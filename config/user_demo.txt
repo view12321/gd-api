@@ -54,15 +54,15 @@ CCTV-17
 三沙卫视
 
 影剧,#genre#
-第一剧场
-风云剧场
-欢笑剧场
-都市剧场
-淘剧场
+CCTV第一剧场
+CCTV风云剧场
+SiTV欢笑剧场
+SiTV都市剧场
+北京IPTV淘剧场
 CHC家庭影院
 CHC动作电影
-CHC高清电影
-淘电影
+CHC影迷电影
+北京IPTV淘电影
 黑莓电影
 
 动画,#genre#
