@@ -1,5 +1,4 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
-# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
 epg.pw
 skype.serv00.net
 iptv.yjxfz.com
@@ -12,3 +11,4 @@ zsntlqj.xicp.net
 kkk.jjjj.jiduo.me
 8.138.90.107
 www.freetv.top
+cc-ynbit-wszhibo.ifengli.com:2000
