@@ -17,8 +17,8 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-第一剧场
-风云剧场
+CCTV第一剧场
+CCTV风云剧场
 
 卫视,#genre#
 安徽卫视
