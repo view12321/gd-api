@@ -1,11 +1,9 @@
 
 央视,#genre#
-CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-1,http://219.139.42.24:8001/hls/1/index.m3u8
 CCTV-5,http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
 
 卫视,#genre#
-云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=8b2f07cc1707359845
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=dbb9f11e1720072042

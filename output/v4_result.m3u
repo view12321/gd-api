@@ -1,12 +1,8 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1
-http://112.123.206.32:808/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2
-http://112.123.206.32:808/hls/2/index.m3u8
+http://219.139.42.24:8001/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5
 http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视",云南卫视
-https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视",青海卫视
