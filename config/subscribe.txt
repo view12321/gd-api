@@ -1,8 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
+https://6758.kstore.space/666.txt
 https://live.kilvn.com/iptv.m3u
 https://m3u.ibert.me/fmml_ipv6.m3u
-https://6758.kstore.space/666.txt
 http://ygbh.site/bh.txt
-https://github.ednovas.xyz/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://github.ednovas.xyz/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://github.ednovas.xyz/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
