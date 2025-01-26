@@ -3,7 +3,6 @@
 
 https://6758.kstore.space/666.txt
 https://live.kilvn.com/iptv.m3u
-http://ygbh.site/bh.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
