@@ -1,6 +1,5 @@
 # 这是订阅源列表，每行一个订阅地址
 
-https://www.freetv.top/migu.m3u
 https://6758.kstore.space/666.txt
 https://live.kilvn.com/iptv.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
