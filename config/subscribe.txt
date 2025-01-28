@@ -3,6 +3,7 @@
 https://6758.kstore.space/666.txt
 https://live.kilvn.com/iptv.m3u
 https://www.freetv.top/migu.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
@@ -14,4 +15,3 @@ https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.t
 https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
