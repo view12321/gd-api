@@ -14,4 +14,3 @@ fmbox.cc
 gaoma
 z.b.bkpcp.top
 cc-ynbit-wszhibo.ifengli.com
-tvpull.careryun.com
