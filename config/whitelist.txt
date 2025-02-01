@@ -1,2 +1,35 @@
 # 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
+
+安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
+北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
+东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
+湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226307
+江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
+广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
+浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
+深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
+天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
+湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
+江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
+河北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226406
+河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
+黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
+吉林卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226397
+辽宁卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226546
+东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
+海南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226465
+重庆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226409
+四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
+山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
+山西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225624
+陕西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225625
+甘肃卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225633
+宁夏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225632
+广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
+贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
+云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444
+内蒙古卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225634
+新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
+青海卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225628
+西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
