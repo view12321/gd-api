@@ -13,3 +13,4 @@ https://wget.la/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://wget.la/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://wget.la/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://wget.la/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
